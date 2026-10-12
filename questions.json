@@ -1,0 +1,750 @@
+[
+  {
+    "id": 1,
+    "route": 1,
+    "theme": "Eau",
+    "question": "Quel geste économise l’eau pendant le brossage des dents ?",
+    "options": [
+      "Un bain prolongé",
+      "Fermer le robinet",
+      "De l’eau non traitée"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Fermer le robinet."
+  },
+  {
+    "id": 2,
+    "route": 1,
+    "theme": "Eau",
+    "question": "Que faut-il réparer pour éviter de gaspiller de l’eau ?",
+    "options": [
+      "Une fuite",
+      "Un bain prolongé",
+      "Jeter les déchets dans la ravine"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Une fuite."
+  },
+  {
+    "id": 3,
+    "route": 1,
+    "theme": "Eau",
+    "question": "Faut-il jeter de l’huile dans l’évier ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 4,
+    "route": 1,
+    "theme": "Eau",
+    "question": "Quel équipement permet de récupérer l’eau de pluie ?",
+    "options": [
+      "Un récupérateur",
+      "Laisser couler l’eau",
+      "Jeter les déchets dans la ravine"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Un récupérateur."
+  },
+  {
+    "id": 5,
+    "route": 1,
+    "theme": "Eau",
+    "question": "L’eau potable est-elle une ressource à préserver ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 6,
+    "route": 1,
+    "theme": "Eau",
+    "question": "Arroser tôt le matin limite-t-il l’évaporation ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 7,
+    "route": 1,
+    "theme": "Eau",
+    "question": "Une ravine peut-elle transporter de l’eau lors de fortes pluies ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 8,
+    "route": 1,
+    "theme": "Eau",
+    "question": "Peut-on boire sans traitement l’eau de n’importe quelle ravine ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 9,
+    "route": 2,
+    "theme": "Eau",
+    "question": "Quel appareil utilise généralement moins d’eau : douche courte ou bain ?",
+    "options": [
+      "Douche courte",
+      "Jeter les déchets dans la ravine",
+      "Laisser couler l’eau"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Douche courte."
+  },
+  {
+    "id": 10,
+    "route": 2,
+    "theme": "Eau",
+    "question": "Pourquoi éviter les produits toxiques dans les caniveaux ?",
+    "options": [
+      "Ils polluent l’eau",
+      "Un arrosoir",
+      "De l’eau non traitée"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Ils polluent l’eau."
+  },
+  {
+    "id": 11,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Quel objet remplace une bouteille jetable ?",
+    "options": [
+      "Une gourde",
+      "Tout brûler",
+      "Les abandonner sur la plage"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Une gourde."
+  },
+  {
+    "id": 12,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Où déposer un déchet sur le parcours ?",
+    "options": [
+      "Tout brûler",
+      "Jeter dans la nature",
+      "Dans une poubelle adaptée"
+    ],
+    "correct": 2,
+    "explanation": "Réponse attendue : Dans une poubelle adaptée."
+  },
+  {
+    "id": 13,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Peut-on laisser un mégot sur la plage ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 14,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Quel geste réduit les emballages ?",
+    "options": [
+      "Jeter dans la nature",
+      "Acheter en vrac",
+      "Utiliser un objet jetable"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Acheter en vrac."
+  },
+  {
+    "id": 15,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Que faire d’un objet encore utilisable ?",
+    "options": [
+      "Les enfouir dans le sable",
+      "Tout brûler",
+      "Le réemployer ou le donner"
+    ],
+    "correct": 2,
+    "explanation": "Réponse attendue : Le réemployer ou le donner."
+  },
+  {
+    "id": 16,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Les déchets plastiques peuvent-ils atteindre la mer ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 17,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Que signifie composter ?",
+    "options": [
+      "Utiliser un objet jetable",
+      "Transformer les biodéchets en amendement",
+      "Les mélanger sans trier"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Transformer les biodéchets en amendement."
+  },
+  {
+    "id": 18,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Le tri est-il identique pour tous les déchets ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 19,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Quel accessoire remplace un sac jetable ?",
+    "options": [
+      "Les enfouir dans le sable",
+      "Tout brûler",
+      "Un sac réutilisable"
+    ],
+    "correct": 2,
+    "explanation": "Réponse attendue : Un sac réutilisable."
+  },
+  {
+    "id": 20,
+    "route": 2,
+    "theme": "Déchets",
+    "question": "Faut-il brûler ses déchets dans son jardin ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 21,
+    "route": 2,
+    "theme": "Océan",
+    "question": "Pourquoi éviter les déchets sur le littoral ?",
+    "options": [
+      "Ils peuvent blesser les animaux",
+      "Marcher sur les coraux",
+      "Les toucher"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Ils peuvent blesser les animaux."
+  },
+  {
+    "id": 22,
+    "route": 2,
+    "theme": "Océan",
+    "question": "Les tortues marines peuvent-elles confondre le plastique avec de la nourriture ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 23,
+    "route": 2,
+    "theme": "Océan",
+    "question": "Que faire si l’on observe une tortue marine ?",
+    "options": [
+      "Laisser les déchets",
+      "Garder ses distances",
+      "Les toucher"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Garder ses distances."
+  },
+  {
+    "id": 24,
+    "route": 2,
+    "theme": "Océan",
+    "question": "Les récifs coralliens abritent-ils des espèces vivantes ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 25,
+    "route": 3,
+    "theme": "Océan",
+    "question": "Quel geste protège la plage ?",
+    "options": [
+      "Ignorer les pollutions",
+      "Ramasser ses déchets",
+      "Marcher sur les coraux"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Ramasser ses déchets."
+  },
+  {
+    "id": 26,
+    "route": 3,
+    "theme": "Océan",
+    "question": "Peut-on prélever librement des coraux vivants ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 27,
+    "route": 3,
+    "theme": "Océan",
+    "question": "Les eaux de ruissellement peuvent-elles polluer la mer ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 28,
+    "route": 3,
+    "theme": "Océan",
+    "question": "Faut-il marcher sur les coraux ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 29,
+    "route": 3,
+    "theme": "Océan",
+    "question": "La mer joue-t-elle un rôle dans le climat ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 30,
+    "route": 3,
+    "theme": "Océan",
+    "question": "Quel matériau jetable peut finir dans l’océan ?",
+    "options": [
+      "Le plastique",
+      "Laisser les déchets",
+      "Les toucher"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Le plastique."
+  },
+  {
+    "id": 31,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Que signifie espèce endémique ?",
+    "options": [
+      "Abîmer les nids",
+      "Nourrir les animaux sauvages",
+      "Espèce naturellement limitée à une région"
+    ],
+    "correct": 2,
+    "explanation": "Réponse attendue : Espèce naturellement limitée à une région."
+  },
+  {
+    "id": 32,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Pourquoi protéger les habitats naturels ?",
+    "options": [
+      "Pour préserver les espèces",
+      "Nourrir les animaux sauvages",
+      "Introduire des espèces envahissantes"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Pour préserver les espèces."
+  },
+  {
+    "id": 33,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Les plantes indigènes font-elles partie du patrimoine naturel ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 34,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Faut-il nourrir les animaux sauvages ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 35,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Quel animal participe souvent à la pollinisation ?",
+    "options": [
+      "Une abeille",
+      "Les déranger",
+      "Les capturer"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Une abeille."
+  },
+  {
+    "id": 36,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Planter des espèces adaptées peut-il favoriser la biodiversité ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 37,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Les ravines peuvent-elles abriter des espèces ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 38,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Que faire face à un nid d’oiseau sauvage ?",
+    "options": [
+      "Ne pas le déranger",
+      "Introduire des espèces envahissantes",
+      "Nourrir les animaux sauvages"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Ne pas le déranger."
+  },
+  {
+    "id": 39,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Pourquoi limiter les espèces envahissantes ?",
+    "options": [
+      "Elles menacent les milieux naturels",
+      "Les capturer",
+      "Introduire des espèces envahissantes"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Elles menacent les milieux naturels."
+  },
+  {
+    "id": 40,
+    "route": 3,
+    "theme": "Biodiversité",
+    "question": "Les insectes jouent-ils un rôle dans les écosystèmes ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 41,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Éteindre une lumière inutile économise-t-il de l’énergie ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 42,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Quel déplacement n’émet pas directement de CO₂ ?",
+    "options": [
+      "Laisser les appareils inutilisés allumés",
+      "La voiture individuelle",
+      "La marche"
+    ],
+    "correct": 2,
+    "explanation": "Réponse attendue : La marche."
+  },
+  {
+    "id": 43,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Quelle énergie utilise un panneau photovoltaïque ?",
+    "options": [
+      "Laisser les appareils inutilisés allumés",
+      "Le soleil",
+      "Laisser la lumière allumée"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Le soleil."
+  },
+  {
+    "id": 44,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Débrancher un chargeur inutile peut-il réduire la consommation ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 45,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Le covoiturage peut-il limiter les émissions par passager ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 46,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Quel équipement choisir pour éclairer efficacement ?",
+    "options": [
+      "Une LED",
+      "Laisser la lumière allumée",
+      "Laisser les appareils inutilisés allumés"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Une LED."
+  },
+  {
+    "id": 47,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Ouvrir le réfrigérateur longtemps économise-t-il de l’énergie ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 48,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Le vélo est-il une mobilité douce ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 49,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Pourquoi entretenir un appareil ?",
+    "options": [
+      "Pour prolonger sa durée de vie",
+      "Une ampoule à incandescence",
+      "Laisser les appareils inutilisés allumés"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Pour prolonger sa durée de vie."
+  },
+  {
+    "id": 50,
+    "route": 3,
+    "theme": "Énergie",
+    "question": "Les énergies renouvelables remplacent-elles toutes les économies d’énergie ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 51,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Quel gaz est souvent cité dans le réchauffement climatique ?",
+    "options": [
+      "La météo d’un seul jour",
+      "La voiture pour chaque court trajet",
+      "Le CO₂"
+    ],
+    "correct": 2,
+    "explanation": "Réponse attendue : Le CO₂."
+  },
+  {
+    "id": 52,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Planter un arbre dispense-t-il de réduire ses émissions ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 53,
+    "route": 3,
+    "theme": "Climat",
+    "question": "La météo et le climat désignent-ils exactement la même chose ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Non."
+  },
+  {
+    "id": 54,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Les fortes chaleurs peuvent-elles affecter la santé ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 55,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Quel geste limite les émissions des déplacements courts ?",
+    "options": [
+      "La voiture pour chaque court trajet",
+      "Les émissions n’ont aucun effet",
+      "Marcher"
+    ],
+    "correct": 2,
+    "explanation": "Réponse attendue : Marcher."
+  },
+  {
+    "id": 56,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Le changement climatique peut-il affecter les océans ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 57,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Pourquoi préserver les arbres en ville ?",
+    "options": [
+      "Supprimer tous les arbres",
+      "Ils apportent de l’ombre",
+      "La météo d’un seul jour"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Ils apportent de l’ombre."
+  },
+  {
+    "id": 58,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Économiser l’énergie aide-t-il à réduire certaines émissions ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 59,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Les épisodes de pluie intense peuvent-ils présenter des risques ?",
+    "options": [
+      "Oui",
+      "Non"
+    ],
+    "correct": 0,
+    "explanation": "Réponse attendue : Oui."
+  },
+  {
+    "id": 60,
+    "route": 3,
+    "theme": "Climat",
+    "question": "Qui peut contribuer à protéger le climat ?",
+    "options": [
+      "Personne",
+      "Tout le monde",
+      "Supprimer tous les arbres"
+    ],
+    "correct": 1,
+    "explanation": "Réponse attendue : Tout le monde."
+  }
+]
